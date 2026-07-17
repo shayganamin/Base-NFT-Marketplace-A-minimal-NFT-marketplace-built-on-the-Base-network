@@ -3,3 +3,4 @@ The project demonstrates NFT minting, listing, purchasing, and wallet integratio
 chore: initialize project
 feat: add NFT contract
 feat: implement mint function
+feat: add marketplace listing
