@@ -2,3 +2,4 @@
 The project demonstrates NFT minting, listing, purchasing, and wallet integration using Ethereum-compatible smart contracts and modern Web3 development tools.
 chore: initialize project
 feat: add NFT contract
+feat: implement mint function
