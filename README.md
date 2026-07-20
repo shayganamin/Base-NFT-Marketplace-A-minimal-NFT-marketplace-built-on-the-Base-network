@@ -4,3 +4,4 @@ chore: initialize project
 feat: add NFT contract
 feat: implement mint function
 feat: add marketplace listing
+feat: integrate wallet connection
