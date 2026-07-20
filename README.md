@@ -5,3 +5,4 @@ feat: add NFT contract
 feat: implement mint function
 feat: add marketplace listing
 feat: integrate wallet connection
+eat: enable NFT purchases
