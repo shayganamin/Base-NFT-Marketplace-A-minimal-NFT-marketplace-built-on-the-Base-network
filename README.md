@@ -7,3 +7,4 @@ feat: add marketplace listing
 feat: integrate wallet connection
 eat: enable NFT purchases
 fix: improve transaction validation
+refactor: optimize contract structure
